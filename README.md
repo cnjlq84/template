@@ -7,7 +7,7 @@ _____________________________
 
 |#| Name          | Demo          | Download  |
 |:-------- |----------------------------- |:-----------------------:| -------------------------:    |
-|#1| foodee   | [Demo](https://toidicode.github.io/template/01-foodee/) | [Download](https://github.com/toidicode/template/raw/master/src/01-foodee.zip/) |
+|#1| foodee   | [Demo](https://cnjlq84.github.io/template/01-foodee/) | [Download](https://github.com/toidicode/template/raw/master/src/01-foodee.zip/) |
 |#2| tasty   | [Demo](https://toidicode.github.io/template/02-tasty/) | [Download](https://github.com/toidicode/template/raw/master/src/02-tasty.zip/) |
 |#3| ethereal   | [Demo](https://toidicode.github.io/template/03-ethereal/) | [Download](https://github.com/toidicode/template/raw/master/src/03-ethereal.zip/) |
 |#4| karmo   | [Demo](https://toidicode.github.io/template/04-karmo/) | [Download](https://github.com/toidicode/template/raw/master/src/04-karmo.zip/) |
